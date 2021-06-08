@@ -1,8 +1,8 @@
 # WESLEY GUIRRA
-Phone: +55 11 99912-0747
-E-mail: wesleeycosta7@gmail.com
-Region/City: Brasília - DF, Brazil
-Github: https://github.com/wesleyguirra
+Phone: +55 11 99912-0747  
+E-mail: wesleeycosta7@gmail.com  
+Region/City: Brasília - DF, Brazil  
+Github: https://github.com/wesleyguirra  
 ```
 Reading Time of this Resume: 4 min
 Words: 635
