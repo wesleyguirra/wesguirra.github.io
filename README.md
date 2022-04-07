@@ -132,4 +132,4 @@ Graduated in Systems Analysis, with background in Digital Marketing and Design o
 - [Developing a Flutter Plugin (In Portuguese)](https://medium.com/flutter-comunidade-br/desenvolvendo-um-plugin-para-flutter-9c81b683189)
 
 
-This resume was writing in Markdown by me, I used dillinger.io it works like ✨Magic ✨, contact me if you wanna some help to writing you own.
+This resume was writing in Markdown by me, I used dillinger.io it works like ✨Magic ✨, contact me if you wanna some help to writing your own.
