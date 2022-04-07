@@ -3,6 +3,8 @@ Phone: +55 11 99912-0747
 E-mail: wesleeycosta7@gmail.com  
 Region/City: Brasília - DF, Brazil  
 Github: https://github.com/wesleyguirra  
+Last salary: **USD 5.040,00**  
+Expected gross salary: **USD 7.000,00**  (Open to offers)
 ```
 Reading Time of this Resume: 4 min
 Words: 635
@@ -14,6 +16,24 @@ Graduated in Systems Analysis, with background in Digital Marketing and Design o
 > Carl Rogers
 
 ## Professional Background
+### Senior DevOps Engineer at Altimetrik (2021/01 ~ now)
+---
+#### Accomplishments
+- Migration of legacy `CI/CD` tool from `CircleCI` to brand new `DroneCI`
+- Investigation of bugs and understanding of client processes (Client was Funding Circle)
+- Developed features for HR focused web app with focus in performance
+- Spoken about TDD and unit tests in some sessions to help interns joining the team
+- Development of `Ruby` app features (Cannot go in detail due to NDA)
+
+### Senior Fullstack Developer at Clevertech (2021/06 ~ 2021/12)
+---
+#### Accomplishments
+- Implemented `SSR/SSG` Website integrated with headless CMS `Contentful`
+- Contribuited with `SEO` insights and performance
+- Developed performance improvements on a `WordPress` website
+- Created a `Python Script` to crawl and migrate data from a structured website from `WordPress`
+- `Sustentation` and creation of website infrastructure on `Netlify`
+
 ### Senior Developer Tech lead at OSBR (2019/11 ~ Now)
 ---
 #### Accomplishments
