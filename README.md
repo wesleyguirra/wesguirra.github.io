@@ -10,13 +10,24 @@ Reading Time of this Resume: 4 min
 Words: 635
 ```
 ## Summary
-Graduated in Systems Analysis, with background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. Actually I'm a `Tech Lead` and focusing on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. I am an enthusiast of design processes and the `DevOps` culture. I always try to expand my knowledge beyond the traditional developer's code box, so commonly look-up for other things that can help me with my tasks, Studying business processes was one of them. `Writing some articles` (In portuguese) trying to help local community and create authority for myself as I'm focusing on becoming an MVP (Microsoft Valuable Professional). A fan of the StartUps lean model, I consume a lot of content about this and I even have a digital agency, small but enough to develop my business vision, which is fundamental for anyone who proposes to create solutions that are functional for people.
+Graduated in Systems Analysis, with background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. I've worked as a `Tech Lead` for more than a year and focused on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. 
+
+Commonly look-up for other things that can help me grow, studying business processes was one of them. `Writing some articles` (In portuguese) trying to help local community and create authority for myself as I'm focusing on becoming an MVP (Microsoft Valuable Professional). I consume a lot of content about lean methodology and I have a digital agency, small but enough to develop my business vision, which is fundamental for anyone who proposes to create solutions that are functional for people.
 
 > The only person who is educated is the one who has learned how to learn and change.
 > Carl Rogers
 
 ## Professional Background
-### Senior DevOps Engineer at Altimetrik (2021/01 ~ now)
+### Senior React Developer at Big Human (2022/06 ~ 2022/09) *Contractor*
+---
+#### Accomplishments
+- Implemented `SSR/SSG` NextJS Website integrated with headless CMS `Contentful`
+- Developed React-Native mobile application for wellness 
+- Implemented quick fixes in shopify themes
+- `Sustentation` and creation of website infrastructure on `Netlify`
+- Implemented `SSR/SSG` Gatsby Website integrated with headless CMS
+
+### Senior DevOps Engineer at Altimetrik (2021/12 ~ 2022/05) *Contractor*
 ---
 #### Accomplishments
 - Migration of legacy `CI/CD` tool from `CircleCI` to brand new `DroneCI`
