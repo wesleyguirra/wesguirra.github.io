@@ -6,8 +6,8 @@ Github: https://github.com/wesleyguirra
 Last salary: **USD 5.040,00**  
 Expected gross salary: **USD 7.000,00**  (Open to offers)
 ```
-Reading Time of this Resume: 4 min
-Words: 635
+Silent Reading Time of this Resume: 3 mins 21 secs
+Words: 797
 ```
 ## Summary
 Graduated in Systems Analysis, with background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. I've worked as a `Tech Lead` for more than a year and focused on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. 
