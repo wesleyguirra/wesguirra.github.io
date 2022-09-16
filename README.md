@@ -3,8 +3,8 @@ Phone: +55 11 99912-0747
 E-mail: wesleeycosta7@gmail.com  
 Region/City: Brasília - DF, Brazil  
 Github: https://github.com/wesleyguirra  
-Last salary: **USD 5.040,00**  
-Expected gross salary: **USD 7.000,00**  (Open to offers)
+Last salary: **USD 7.500**  
+Expected gross salary: **USD 7.500,00**  (Open to offers)
 ```
 Silent Reading Time of this Resume: 3 mins 21 secs
 Words: 797
