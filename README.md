@@ -27,14 +27,16 @@ Commonly look-up for other things that can help me grow, studying business proce
 - `Sustentation` and creation of website infrastructure on `Netlify`
 - Implemented `SSR/SSG` Gatsby Website integrated with headless CMS
 
-### Senior DevOps Engineer at Altimetrik (2021/12 ~ 2022/05) *Contractor*
+### Senior DevOps Engineer at Funding Circle UK (2021/12 ~ 2022/05) *Contractor*
 ---
 #### Accomplishments
 - Migration of legacy `CI/CD` tool from `CircleCI` to brand new `DroneCI`
-- Investigation of bugs and understanding of client processes (Client was Funding Circle)
+- Investigation of bugs and understanding of core business processes
 - Developed features for HR focused web app with focus in performance
 - Spoken about TDD and unit tests in some sessions to help interns joining the team
-- Development of `Ruby` app features (Cannot go in detail due to NDA)
+- Development of `Ruby on Rails` app features
+- Development of `Clojure` core rules of business
+- Understanding and implementation of financials workflows
 
 ### Senior Fullstack Developer at Clevertech (2021/06 ~ 2021/12)
 ---
@@ -90,7 +92,7 @@ Commonly look-up for other things that can help me grow, studying business proce
 ![PHP Level](https://img.shields.io/badge/PHP-advanced-%23ff0000)
 ![Swift Level](https://img.shields.io/badge/Swift-intermediate-%23f9c700)
 ![Java Level](https://img.shields.io/badge/Java-beginner-%23)
-![Kotlin Level](https://img.shields.io/badge/Kotlin-beginner-%23)
+![Kotlin Level](https://img.shields.io/badge/Kotlin-intermediate-%23f9c700)
 #### Frameworks
 ![VueJS Level](https://img.shields.io/badge/VueJS-advanced-%23ff0000) 
 ![NodeJS Level](https://img.shields.io/badge/NodeJS-advanced-%23ff0000) 
@@ -109,7 +111,7 @@ Commonly look-up for other things that can help me grow, studying business proce
 ![Fastlane Level](https://img.shields.io/badge/Fastlane-advanced-%23ff0000)
 ![Postgre Level](https://img.shields.io/badge/PostgreSQL-intermediate-%23f9c700) 
 ![MySQL Level](https://img.shields.io/badge/MySQL-intermediate-%23f9c700) 
-![Docker Level](https://img.shields.io/badge/Docker-intermediate-%23f9c700)
+![Docker Level](https://img.shields.io/badge/Docker-advanced-%23ff0000)
 
 ### Design
 ![Adobe Illustrator Level](https://img.shields.io/badge/Adobe%20Illustrator-advanced-%23ff0000) 
