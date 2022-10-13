@@ -47,7 +47,7 @@ Commonly look-up for other things that can help me grow, studying business proce
 - Created a `Python Script` to crawl and migrate data from a structured website from `WordPress`
 - `Sustentation` and creation of website infrastructure on `Netlify`
 
-### Senior Developer Tech lead at OSBR (2019/11 ~ Now)
+### Senior Developer Tech lead at OSBR (2019/11 ~ 2021/06)
 ---
 #### Accomplishments
 - Implemented `CI/CD` for Mobile, Web and APIs projects using `GoCD` and `Azure DevOps`
