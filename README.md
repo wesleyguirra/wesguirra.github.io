@@ -165,6 +165,9 @@ As a PHP developer my roles were to work on new features for company CRM written
 - **CertiProf** SCRUM Foundation Professional
 - **HackerRank** React Basic
 
+## Pushed apps
+- [Rota combustivel (Google Play)](https://play.google.com/store/apps/details?id=es.dgtalhero.rotacombustivel&pli=1)
+
 ## Articles
 - [Creating Animated Forms in React-Native using SVG and Animated API (In Portuguese)](https://medium.com/fabmvp/criando-formas-animadas-no-react-native-usando-svg-e-animated-api-2b87c7a3b31c)
 - [Creating Dynamic List fields using ReactJS (In Portuguese)](https://medium.com/reactbrasil/criando-lista-din%C3%A2mica-utilizando-reactjs-38f5faf65431)
