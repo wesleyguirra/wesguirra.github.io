@@ -106,41 +106,45 @@ As a PHP developer my roles were to work on new features for company CRM written
 ### Languages & Frameworks
 #### Languages
 ##### Front-end
-![JavaScript Level](https://img.shields.io/badge/JavaScript-advanced-%23ff0000)
-![React Level](https://img.shields.io/badge/React-advanced-%23ff0000) 
-![VueJS Level](https://img.shields.io/badge/VueJS-advanced-%23ff0000) 
-![Angular Level](https://img.shields.io/badge/Angular-intermediate-%23f9c700)
-![AngularJS Level](https://img.shields.io/badge/AngularJS-intermediate-%23f9c700) 
+![JavaScript Level](https://img.shields.io/badge/JavaScript-Expert-%23ff0000)
+![React Level](https://img.shields.io/badge/React-Expert-%23ff0000) 
+![NextJS Level](https://img.shields.io/badge/NextJS-Expert-%23ff0000) 
+![Gatsby Level](https://img.shields.io/badge/Gatsby-Proficient-%23ff0000) 
+![VueJS Level](https://img.shields.io/badge/VueJS-Proficient-%23ff0000) 
+![Angular Level](https://img.shields.io/badge/Angular-Proficient-%23f9c700)
+![AngularJS Level](https://img.shields.io/badge/AngularJS-Proficient-%23f9c700) 
+![GraphQL Level](https://img.shields.io/badge/GraphQL-Proficient-%23ff0000) 
 ##### Mobile
-![Flutter Level](https://img.shields.io/badge/Flutter-advanced-%23ff0000) 
-![React-Native Level](https://img.shields.io/badge/React%20Native-advanced-%23ff0000)
-![Swift Level](https://img.shields.io/badge/Swift-intermediate-%23f9c700)
-![Kotlin Level](https://img.shields.io/badge/Kotlin-intermediate-%23f9c700)
+![Flutter Level](https://img.shields.io/badge/Flutter-Expert-%23ff0000) 
+![React-Native Level](https://img.shields.io/badge/React%20Native-Expert-%23ff0000)
+![Swift Level](https://img.shields.io/badge/Swift-Advanced%20Beginner-%23f9c700)
+![Kotlin Level](https://img.shields.io/badge/Kotlin-Advanced%20Beginner-%23f9c700)
 ##### Back-end
-![NodeJS Level](https://img.shields.io/badge/NodeJS-advanced-%23ff0000)
-![Java Level](https://img.shields.io/badge/Java-beginner-%23)
-![Spring Level](https://img.shields.io/badge/Spring-beginner-%23)
-![Spark Level](https://img.shields.io/badge/Spark-intermediate-%23f9c700)
-![Ruby Level](https://img.shields.io/badge/Ruby-advanced-%23ff0000)
-![Rails Level](https://img.shields.io/badge/Rails-advanced-%23ff0000) 
-![PHP Level](https://img.shields.io/badge/PHP-advanced-%23ff0000)
-![Laravel Level](https://img.shields.io/badge/Laravel-advanced-%23ff0000)
+![NodeJS Level](https://img.shields.io/badge/NodeJS-Proficient-%23ff0000)
+![Java Level](https://img.shields.io/badge/Java-Advanced-%23)
+![Spring Level](https://img.shields.io/badge/Spring-Advanced%20Beginner-%23)
+![Spark Level](https://img.shields.io/badge/Spark-Advanced-%23f9c700)
+![Ruby Level](https://img.shields.io/badge/Ruby-Proficient-%23ff0000)
+![Rails Level](https://img.shields.io/badge/Rails-Proficient-%23ff0000) 
+![PHP Level](https://img.shields.io/badge/PHP-Expert-%23ff0000)
+![Laravel Level](https://img.shields.io/badge/Laravel-Proficient-%23ff0000)
 
 ### Databases & DevOps
-![CI/CD Level](https://img.shields.io/badge/CI/CD-advanced-%23ff0000) 
-![Fastlane Level](https://img.shields.io/badge/Fastlane-advanced-%23ff0000)
-![Postgre Level](https://img.shields.io/badge/PostgreSQL-intermediate-%23f9c700) 
-![MySQL Level](https://img.shields.io/badge/MySQL-intermediate-%23f9c700) 
-![Docker Level](https://img.shields.io/badge/Docker-advanced-%23ff0000)
+![CI/CD Level](https://img.shields.io/badge/CI/CD-Proficient-%23ff0000) 
+![Fastlane Level](https://img.shields.io/badge/Fastlane-Proficient-%23ff0000)
+![Postgre Level](https://img.shields.io/badge/PostgreSQL-Proficient-%23f9c700) 
+![MySQL Level](https://img.shields.io/badge/MySQL-Proficient-%23f9c700) 
+![Docker Level](https://img.shields.io/badge/Docker-Proficient-%23ff0000)
 
 ### Big data & Data sciense
-![SQL Queries Level](https://img.shields.io/badge/SQL-intermediate-%23f9c700) 
-![Data Build Tool Level](https://img.shields.io/badge/DBT-intermediate-%23f9c700) 
+![SQL Queries Level](https://img.shields.io/badge/SQL-Proficient-%23f9c700) 
+![Data Build Tool Level](https://img.shields.io/badge/DBT-Advanced%20Beginner-%23f9c700) 
 
 ### Design
-![Adobe Illustrator Level](https://img.shields.io/badge/Adobe%20Illustrator-advanced-%23ff0000) 
-![Adobe Photoshop - Advanced](https://img.shields.io/badge/Adobe%20Photoshop-advanced-%23ff0000)
-![UX/UI - Advanced](https://img.shields.io/badge/UX/UI-advanced-%23ff0000)
+![Figma Level](https://img.shields.io/badge/Figma-Proficient-%23ff0000) 
+![Adobe Illustrator Level](https://img.shields.io/badge/Adobe%20Illustrator-Proficient-%23ff0000) 
+![Adobe Photoshop - Advanced](https://img.shields.io/badge/Adobe%20Photoshop-Proficient-%23ff0000)
+![UX/UI - Advanced](https://img.shields.io/badge/UX/UI-Proficient-%23ff0000)
 
 ## Education, Formation and Specializations
 #### **ENIAC** Superior Analysis and System's Development (2017)
@@ -160,6 +164,7 @@ As a PHP developer my roles were to work on new features for company CRM written
 
 #### Certifications
 - **CertiProf** SCRUM Foundation Professional
+- **HackerRank** React Basic
 
 ## Articles
 - [Creating Animated Forms in React-Native using SVG and Animated API (In Portuguese)](https://medium.com/fabmvp/criando-formas-animadas-no-react-native-usando-svg-e-animated-api-2b87c7a3b31c)
