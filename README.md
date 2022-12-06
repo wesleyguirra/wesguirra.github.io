@@ -20,6 +20,10 @@ Commonly look-up for other things that can help me grow, studying business proce
 ## Professional Background
 ### Senior React Developer at Big Human (2022/06 ~ 2022/09) *Contractor*
 ---
+#### Description
+> As a front-end developer my main roles were to understand the design of pages and suggest archictural decision then to develop websites using React.js
+> integrating it with headless CMS using GraphQL communication, As a mobile engineer I have implemented new features and bug fixes for an application for
+> the wellness industry, I also have worked on a shopify project.
 #### Accomplishments
 - Implemented `SSR/SSG` NextJS Website integrated with headless CMS `Contentful`
 - Developed React-Native mobile application for wellness 
@@ -29,6 +33,8 @@ Commonly look-up for other things that can help me grow, studying business proce
 
 ### Senior DevOps Engineer at Funding Circle UK (2021/12 ~ 2022/05) *Contractor*
 ---
+#### Description
+> As a developer my main duties would be to develop new features for the credit APIs using Ruby on Rails and Clojure, as well as identify and investigate bugs and work on security improvements in Front-end applications (mainly XSS)
 #### Accomplishments
 - Migration of legacy `CI/CD` tool from `CircleCI` to brand new `DroneCI`
 - Investigation of bugs and understanding of core business processes
@@ -49,6 +55,13 @@ Commonly look-up for other things that can help me grow, studying business proce
 
 ### Senior Developer Tech lead at OSBR (2019/11 ~ 2021/06)
 ---
+#### Description
+> As a Tech Lead my main role was to take care of the development area as a whole, understand and suggest design patterns, review team codes, lead the team (2 developers, 1 designer, 1 QA) through the application of SCRUM to optimize deliveries, managing productive and non-productive environments using mainly Azure cloud, helping to implement the DevOps culture, I was also able to work on proofs of concept using new technologies such as Flutter, React and Headless CMS.
+
+below are some accomplishments:
+• Designed and Developed Financial APIs, and mobile apps in Flutter to sell gift card through a card machine (Android).
+• Implemented CI and CD for APIs, WebApps, and Mobile Apps, using Azure Pipelines and Gitlab Pipelines.
+• Maintain and improve the performance of a WordPress website with more than 5 million access per month for the main player of benefits services in Brazil and France called Ticket/Edenred.
 #### Accomplishments
 - Implemented `CI/CD` for Mobile, Web and APIs projects using `GoCD` and `Azure DevOps`
 - Developed Credit card machine Android App using `Flutter`
@@ -59,6 +72,8 @@ Commonly look-up for other things that can help me grow, studying business proce
 
 ### Fullstack Engineer at Platform Builders (2018/10 ~ 2019/11)
 ---
+#### Description
+> My main function was to develop mobile (hybrid) applications using React-Native, Redux and MobX, the applications focused on validating new business models, as well as new products for large retailers, I was able to apply varied knowledge from mobile development to continuous integration (CI /CD, Twelve-factor-app), in some situations I even worked directly on the back-end of applications that were written mainly in Java using the Spring framework.
 #### Accomplishments
 - Developed App based on content `CMS` for hotel Jatiuca using `React`
 - Developed CMS Web App for hotel Jatiuca using `React`
@@ -69,12 +84,15 @@ Commonly look-up for other things that can help me grow, studying business proce
 
 ### Front-end Engineer at Netbiis (2018/06 ~ 2018/10)
 ---
+> As a front-end developer I was responsible for developing new features and bug fixes, as well as doing non-integrated tests, and suggesting architectural improvements for the application using mainly the angular.js framework, also in some projects I have the opportunity to work with React.js implementing chat bot solution using socket.io
 #### Accomplishments
 - Developed Web App for Engel & Voelkers using `AngularJS`
 - Developed Web App for Chat bot for Rede Globo using `React`
 
 ### Fullstack Engineer at 4Linux (2016/02 ~ 2017/07)
 ---
+#### Description
+As a PHP developer my roles were to work on new features for company CRM written in PHP and Drupal website with a great focus on SEO and performance, I also share some UI/UX designer roles for the marketing team, working on marketing pieces (ad banners mainly) and designing new experience for the website.
 #### Accomplishments
 - Developed Web site using `Drupal` and `Symfony` SMACSS Front-end structure
 - UI/UX Prototyping
@@ -87,24 +105,26 @@ Commonly look-up for other things that can help me grow, studying business proce
 ## Skills
 ### Languages & Frameworks
 #### Languages
+##### Front-end
 ![JavaScript Level](https://img.shields.io/badge/JavaScript-advanced-%23ff0000)
-![Ruby Level](https://img.shields.io/badge/Ruby-advanced-%23ff0000)
-![PHP Level](https://img.shields.io/badge/PHP-advanced-%23ff0000)
-![Swift Level](https://img.shields.io/badge/Swift-intermediate-%23f9c700)
-![Java Level](https://img.shields.io/badge/Java-beginner-%23)
-![Kotlin Level](https://img.shields.io/badge/Kotlin-intermediate-%23f9c700)
-#### Frameworks
-![VueJS Level](https://img.shields.io/badge/VueJS-advanced-%23ff0000) 
-![NodeJS Level](https://img.shields.io/badge/NodeJS-advanced-%23ff0000) 
 ![React Level](https://img.shields.io/badge/React-advanced-%23ff0000) 
-![React-Native Level](https://img.shields.io/badge/React%20Native-advanced-%23ff0000)
-![Flutter Level](https://img.shields.io/badge/Flutter-advanced-%23ff0000) 
-![Laravel Level](https://img.shields.io/badge/Laravel-advanced-%23ff0000)
-![Rails Level](https://img.shields.io/badge/Rails-advanced-%23ff0000) 
+![VueJS Level](https://img.shields.io/badge/VueJS-advanced-%23ff0000) 
 ![Angular Level](https://img.shields.io/badge/Angular-intermediate-%23f9c700)
 ![AngularJS Level](https://img.shields.io/badge/AngularJS-intermediate-%23f9c700) 
-![Spark Level](https://img.shields.io/badge/Spark-intermediate-%23f9c700)
+##### Mobile
+![Flutter Level](https://img.shields.io/badge/Flutter-advanced-%23ff0000) 
+![React-Native Level](https://img.shields.io/badge/React%20Native-advanced-%23ff0000)
+![Swift Level](https://img.shields.io/badge/Swift-intermediate-%23f9c700)
+![Kotlin Level](https://img.shields.io/badge/Kotlin-intermediate-%23f9c700)
+##### Back-end
+![NodeJS Level](https://img.shields.io/badge/NodeJS-advanced-%23ff0000)
+![Java Level](https://img.shields.io/badge/Java-beginner-%23)
 ![Spring Level](https://img.shields.io/badge/Spring-beginner-%23)
+![Spark Level](https://img.shields.io/badge/Spark-intermediate-%23f9c700)
+![Ruby Level](https://img.shields.io/badge/Ruby-advanced-%23ff0000)
+![Rails Level](https://img.shields.io/badge/Rails-advanced-%23ff0000) 
+![PHP Level](https://img.shields.io/badge/PHP-advanced-%23ff0000)
+![Laravel Level](https://img.shields.io/badge/Laravel-advanced-%23ff0000)
 
 ### Databases & DevOps
 ![CI/CD Level](https://img.shields.io/badge/CI/CD-advanced-%23ff0000) 
@@ -112,6 +132,10 @@ Commonly look-up for other things that can help me grow, studying business proce
 ![Postgre Level](https://img.shields.io/badge/PostgreSQL-intermediate-%23f9c700) 
 ![MySQL Level](https://img.shields.io/badge/MySQL-intermediate-%23f9c700) 
 ![Docker Level](https://img.shields.io/badge/Docker-advanced-%23ff0000)
+
+### Big data & Data sciense
+![SQL Queries Level](https://img.shields.io/badge/SQL-intermediate-%23f9c700) 
+![Data Build Tool Level](https://img.shields.io/badge/DBT-intermediate-%23f9c700) 
 
 ### Design
 ![Adobe Illustrator Level](https://img.shields.io/badge/Adobe%20Illustrator-advanced-%23ff0000) 
