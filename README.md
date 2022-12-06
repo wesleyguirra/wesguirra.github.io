@@ -6,8 +6,8 @@ Github: https://github.com/wesleyguirra
 Last salary: **USD 7.500**  
 Expected gross salary: **USD 5.000,00 monthly**  (Open to offers)
 ```
-Silent Reading Time of this Resume: 3 mins 21 secs
-Words: 797
+Silent Reading Time of this Resume: ~5 mins 20 secs
+Words: ~1200
 ```
 ## Summary
 Graduated in Systems Analysis, with background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. I've worked as a `Tech Lead` for more than a year and focused on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. 
@@ -58,10 +58,6 @@ Commonly look-up for other things that can help me grow, studying business proce
 #### Description
 > As a Tech Lead my main role was to take care of the development area as a whole, understand and suggest design patterns, review team codes, lead the team (2 developers, 1 designer, 1 QA) through the application of SCRUM to optimize deliveries, managing productive and non-productive environments using mainly Azure cloud, helping to implement the DevOps culture, I was also able to work on proofs of concept using new technologies such as Flutter, React and Headless CMS.
 
-below are some accomplishments:
-• Designed and Developed Financial APIs, and mobile apps in Flutter to sell gift card through a card machine (Android).
-• Implemented CI and CD for APIs, WebApps, and Mobile Apps, using Azure Pipelines and Gitlab Pipelines.
-• Maintain and improve the performance of a WordPress website with more than 5 million access per month for the main player of benefits services in Brazil and France called Ticket/Edenred.
 #### Accomplishments
 - Implemented `CI/CD` for Mobile, Web and APIs projects using `GoCD` and `Azure DevOps`
 - Developed Credit card machine Android App using `Flutter`
@@ -69,6 +65,8 @@ below are some accomplishments:
 - Defined `KPIs` for technology teams
 - Created `SCM` plan of company projects
 - `Sustentation` and creation of apps infrastructure on `Azure`
+- Maintain and improve the performance of a `WordPress` website with more than 5 million access per month for the main player of benefits services in Brazil and France called Ticket/Edenred.
+- Designed and Developed Financial APIs, and mobile apps in `Flutter` to sell gift card through a card machine (Android).
 
 ### Fullstack Engineer at Platform Builders (2018/10 ~ 2019/11)
 ---
