@@ -5,7 +5,7 @@ Region/City: Brasília - DF, Brazil
 Github: https://github.com/wesleyguirra  
 LinkedIn: https://linkedin.com/in/wesleyguirra  
 Last salary: **USD 7.500**  
-Expected gross salary: **USD 5.000,00 monthly**  (Open to offers)
+Expected gross salary: **USD 5.000,00 monthly**  (Open to offers)  
 Notice period: No notice period (start immediately)
 ```
 Silent Reading Time of this Resume: ~5 mins 20 secs
