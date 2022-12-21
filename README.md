@@ -148,7 +148,7 @@ As a PHP developer my roles were to work on new features for company CRM written
 
 ## Education, Formation and Specializations
 #### **Pontifícia Universidade Católica do Rio Grande do Sul** 
-MBA in Business Technology: AI, Data Sciense and Big Data, Information Technology
+MBA in Business Technology: AI, Data Sciense and Big Data, Information Technology (2023)
 #### **ENIAC** 
 Superior Analysis and System's Development (2017)
 #### Accomplishments
