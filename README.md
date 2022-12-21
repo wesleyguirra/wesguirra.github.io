@@ -147,7 +147,10 @@ As a PHP developer my roles were to work on new features for company CRM written
 ![UX/UI - Advanced](https://img.shields.io/badge/UX/UI-Proficient-%23a13077)
 
 ## Education, Formation and Specializations
-#### **ENIAC** Superior Analysis and System's Development (2017)
+#### **Pontifícia Universidade Católica do Rio Grande do Sul** 
+MBA in Business Technology: AI, Data Sciense and Big Data, Information Technology
+#### **ENIAC** 
+Superior Analysis and System's Development (2017)
 #### Accomplishments
 - Developed `API`, `Web App` and `Mobile` App with focus on solving relationship problems between medics and patients
 - Developed `API` and `iOS App` to solve problem with find of medicines in city of Guarulhos - SP
