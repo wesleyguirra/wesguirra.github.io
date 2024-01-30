@@ -4,27 +4,48 @@ E-mail: wesleeycosta7@gmail.com
 Region/City: Brasília - DF, Brazil  
 Github: https://github.com/wesleyguirra  
 LinkedIn: https://linkedin.com/in/wesleyguirra  
-Last salary: **USD 7.500**  
-Expected gross salary: **USD 5.000,00 monthly**  (Open to offers)  
-Notice period: No notice period (start immediately)
+Last salary: **USD 25/h**  
+Expected gross salary: Open to offers
+Notice period: 14 days
 ```
 Silent Reading Time of this Resume: ~5 mins 20 secs
 Words: ~1200
 ```
 ## Summary
-Graduated in Systems Analysis, with background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. I've worked as a `Tech Lead` for more than a year and focused on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. 
+I graduated in Systems Analysis, with a background in Digital Marketing and Design of interfaces. I have solid knowledge of the digital processes that involve development and planning. I've worked as a `Tech Lead` for more than a year and focused on Developing soft skills, mainly skills related to people management. I work actively with Agile `SCRUM` methodology and I'm a fan of `CI/CD` trying to automatize everything. 
 
-Commonly look-up for other things that can help me grow, studying business processes was one of them. `Writing some articles` (In portuguese) trying to help local community and create authority for myself as I'm focusing on becoming an MVP (Microsoft Valuable Professional). I consume a lot of content about lean methodology and I have a digital agency, small but enough to develop my business vision, which is fundamental for anyone who proposes to create solutions that are functional for people.
+I commonly look up other things that can help me grow, and studying business processes was one of them. `Writing some articles` (In Portuguese) trying to help the local community and create authority for myself as I'm focusing on becoming an MVP (Microsoft Valuable Professional). I consume a lot of content about lean methodology and I have a digital agency, small but enough to develop my business vision, which is fundamental for anyone who proposes to create solutions that are functional for people.
 
 > The only person who is educated is the one who has learned how to learn and change.
 > Carl Rogers
 
 ## Professional Background
+### Fullstack Developer at BILDIT (2023/10 ~ Current) *Contractor*
+---
+#### Description
+> TBA
+#### Accomplishments
+- TBA
+
+### Lead Developer and Founder at Endeken (2020/05 ~ Current)
+---
+#### Description
+
+> Founded and led a dynamic technology company in 2021, initially starting with a team of 2 junior developers and a designer. Evolved into a multifaceted role as a strategic leader and principal developer, guiding the company through significant growth and adapting to challenges, including the impact of the pandemic. Primarily focused on React.js, I expanded my expertise to various technologies such as React Native, Flutter, Ruby, Node.js, PHP, .NET, databases, BI tools, and AI solutions.
+> Embraced a hands-on approach by actively participating in the development process, mentoring developers, and ensuring the delivery of high-quality software. As a project expanded, introduced and successfully managed a project manager to streamline operations. Demonstrated adaptability and versatility by venturing into new areas like databases, BI, and AI, with proficiency in tools such as dbt, Metabase, PostgreSQL, and data warehouses.
+
+#### Accomplishments
+- Established and nurtured a team, growing from an initial 3-person setup to nearly 20 professionals.
+- Successfully weathered the challenges of the pandemic and strategically navigated the company through fluctuations, maintaining resilience.
+- Spearheaded the expansion into diverse technologies, including React Native, Flutter, Ruby, Node.js, PHP, .NET, databases, BI tools, and AI solutions.
+- Led the development of websites using Next.js, and React.js, seamlessly integrated with headless CMS solutions like Strapi.
+- Contributed significantly to the company's evolution into the realms of databases, BI, and AI solutions, fostering a culture of continuous learning and innovation.
+
 ### Senior React Developer at Big Human (2022/06 ~ 2022/09) *Contractor*
 ---
 #### Description
-> As a front-end developer my main roles were to understand the design of pages and suggest archictural decision then to develop websites using React.js
-> integrating it with headless CMS using GraphQL communication, As a mobile engineer I have implemented new features and bug fixes for an application for
+> As a front-end developer my main roles were to understand the design of pages and suggest architectural decision then to develop websites using React.js
+> Integrating it with headless CMS using GraphQL communication, As a mobile engineer I have implemented new features and bug fixes for an application for
 > the wellness industry, I also have worked on a shopify project.
 #### Accomplishments
 - Implemented `SSR/SSG` NextJS Website integrated with headless CMS `Contentful`
@@ -40,17 +61,17 @@ Commonly look-up for other things that can help me grow, studying business proce
 #### Accomplishments
 - Migration of legacy `CI/CD` tool from `CircleCI` to brand new `DroneCI`
 - Investigation of bugs and understanding of core business processes
-- Developed features for HR focused web app with focus in performance
+- Developed features for HR focused web app with a focus in performance
 - Spoken about TDD and unit tests in some sessions to help interns joining the team
 - Development of `Ruby on Rails` app features
 - Development of `Clojure` core rules of business
-- Understanding and implementation of financials workflows
+- Understanding and implementation of financial workflows
 
 ### Senior Fullstack Developer at Clevertech (2021/06 ~ 2021/12)
 ---
 #### Accomplishments
 - Implemented `SSR/SSG` Website integrated with headless CMS `Contentful`
-- Contribuited with `SEO` insights and performance
+- Contributed with `SEO` insights and performance
 - Developed performance improvements on a `WordPress` website
 - Created a `Python Script` to crawl and migrate data from a structured website from `WordPress`
 - `Sustentation` and creation of website infrastructure on `Netlify`
@@ -61,14 +82,14 @@ Commonly look-up for other things that can help me grow, studying business proce
 > As a Tech Lead my main role was to take care of the development area as a whole, understand and suggest design patterns, review team codes, lead the team (2 developers, 1 designer, 1 QA) through the application of SCRUM to optimize deliveries, managing productive and non-productive environments using mainly Azure cloud, helping to implement the DevOps culture, I was also able to work on proofs of concept using new technologies such as Flutter, React and Headless CMS.
 
 #### Accomplishments
-- Implemented `CI/CD` for Mobile, Web and APIs projects using `GoCD` and `Azure DevOps`
+- Implemented `CI/CD` for Mobile, Web, and APIs projects using `GoCD` and `Azure DevOps`
 - Developed Credit card machine Android App using `Flutter`
 - `Leadership` of technology teams
 - Defined `KPIs` for technology teams
-- Created `SCM` plan of company projects
+- Created `SCM` plan for company projects
 - `Sustentation` and creation of apps infrastructure on `Azure`
 - Maintain and improve the performance of a `WordPress` website with more than 5 million access per month for the main player of benefits services in Brazil and France called Ticket/Edenred.
-- Designed and Developed Financial APIs, and mobile apps in `Flutter` to sell gift card through a card machine (Android).
+- Designed and Developed Financial APIs, and mobile apps in `Flutter` to sell gift cards through a card machine (Android).
 
 ### Fullstack Engineer at Platform Builders (2018/10 ~ 2019/11)
 ---
@@ -77,17 +98,17 @@ Commonly look-up for other things that can help me grow, studying business proce
 #### Accomplishments
 - Developed App based on content `CMS` for hotel Jatiuca using `React`
 - Developed CMS Web App for hotel Jatiuca using `React`
-- Designed the Interface of App for mechanical cal stores
-- Developed App for mechanical car stores using `React-Native`
-- Developed App for workflow approvals for Iguatemi Shopping using `React-Native`
-- Developed Web App to customization of t-shirts for Pernambucanas using `React`
+- Designed the Interface of the App for mechanical cal stores
+- Developed an App for mechanical car stores using `React-Native`
+- Developed an App for workflow approvals for Iguatemi Shopping using `React-Native`
+- Developed Web App for customization of t-shirts for Pernambucanas using `React`
 
 ### Front-end Engineer at Netbiis (2018/06 ~ 2018/10)
 ---
-> As a front-end developer I was responsible for developing new features and bug fixes, as well as doing non-integrated tests, and suggesting architectural improvements for the application using mainly the angular.js framework, also in some projects I have the opportunity to work with React.js implementing chat bot solution using socket.io
+> As a front-end developer I was responsible for developing new features and bug fixes, as well as doing non-integrated tests, and suggesting architectural improvements for the application using mainly the angular.js framework, also in some projects I had the opportunity to work with React.js implementing chatbot solution using socket.io
 #### Accomplishments
 - Developed Web App for Engel & Voelkers using `AngularJS`
-- Developed Web App for Chat bot for Rede Globo using `React`
+- Developed Web App for Chatbot for Rede Globo using `React`
 
 ### Fullstack Engineer at 4Linux (2016/02 ~ 2017/07)
 ---
@@ -148,12 +169,12 @@ As a PHP developer my roles were to work on new features for company CRM written
 
 ## Education, Formation and Specializations
 #### **Pontifícia Universidade Católica do Rio Grande do Sul** 
-MBA in Business Technology: AI, Data Sciense and Big Data, Information Technology (2023)
+MBA in Business Technology: AI, Data Science and Big Data, Information Technology (2023)
 #### **ENIAC** 
-Superior Analysis and System's Development (2017)
+Superior Analysis and System Development (2017)
 #### Accomplishments
-- Developed `API`, `Web App` and `Mobile` App with focus on solving relationship problems between medics and patients
-- Developed `API` and `iOS App` to solve problem with find of medicines in city of Guarulhos - SP
+- Developed `API`, `Web App` and `Mobile` Apps with focus on solving relationship problems between medics and patients
+- Developed `API` and `iOS App` to solve problems with finding medicines in the city of Guarulhos - SP
 ---
 #### Specializations
 - **AWS** IoT Foundation: Telemetry
@@ -161,8 +182,8 @@ Superior Analysis and System's Development (2017)
 - **University of Virginia** Digital Transformation
 - **LinkedIn** Online Marketing Foundations
 - **Fundação Bradesco** Stuctured System Analysis
-- **4Linux** Web Development with PHP (I lessioned the course later in 2017)
-- **4Linux** Agile Infrastructure: DevOps best practices using Docker, Git, Jenkins, Puppet and Ansible
+- **4Linux** Web Development with PHP (I taught the course later in 2017)
+- **4Linux** Agile Infrastructure: DevOps best practices using Docker, Git, Jenkins, Puppet, and Ansible
 - **SENAI** Transversal Competence in Information and Communication Technologies
 
 #### Certifications
@@ -180,4 +201,4 @@ Superior Analysis and System's Development (2017)
 - [Developing a Flutter Plugin (In Portuguese)](https://medium.com/flutter-comunidade-br/desenvolvendo-um-plugin-para-flutter-9c81b683189)
 
 
-This resume was writing in Markdown by me, I used dillinger.io it works like ✨Magic ✨, contact me if you wanna some help to writing your own.
+This resume was written in Markdown by me, I used dillinger.io it works like ✨Magic ✨, contact me if you wanna some help writing your own.
